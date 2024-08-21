@@ -1,5 +1,5 @@
 # ierisLabs
-![ierisLabs Logo](https://github.com/ierislabs/.github/raw/main/assets/ierislabs-logo.png)
+![ierisLabs Logo](https://raw.githubusercontent.com/ierislabs/.github/prime/assets/ierislabs-logo.png)
 
 Welcome to ierisLabs, a passion project for open-source software. Started by
 [ieris19](https://github.com/ieris19) in 2024, ierisLabs is home to a variety of
